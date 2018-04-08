@@ -4,7 +4,7 @@
 //% weight=0 color=#3CB371 icon="\uf2db" block="Sensors"
 namespace Sensors
 {
-	//% blockId=RGB_LED1 block="Common Anode RGB LED set R_pin %RedPin|R_value(0~255) %RedValue|G_pin %GreenPin|G_value(0~255) %GreenValue|B_pin %BluePin|B_value(0~255) %BlueValue" blockExternalInputs=true
+	//% blockId=RGB_LED1 block="Common Anode RGB LED set R_pin %RedPin|R_value(0~255) %RedValue|G_pin %GreenPin|G_value(0~255) %GreenValue|B_pin %BluePin|B_value(0~255) %BlueValue" blockExternalInputs=false
 	//% RedValue.min=0 RedValue.max=255 GreenValue.min=0 GreenValue.max=255 BlueValue.min=0 BlueValue.max=255
 	//% RedPin.fieldEditor="gridpicker" RedPin.fieldOptions.columns=4
 	//% RedPin.fieldOptions.tooltips="false" RedPin.fieldOptions.width="300"

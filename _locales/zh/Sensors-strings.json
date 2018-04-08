@@ -1,4 +1,5 @@
 {
 	"Sensors|block": "感應器",
-	"Sensors.RGBLight|block": "共陰極RGB LED 設定 紅色腳位 %RedPin|綠色腳位 %GreenPin|藍色腳位 %BluePin|紅色值(0~255) %RedValue|綠色值(0~255) %GreenValue|藍色值(0~255) %BlueValue"
+	"Sensors.RGB_LED1|block": "共陽極RGB LED 設定 紅色腳位 %RedPin|紅色值(0~255) %RedValue|綠色腳位 %GreenPin|綠色值(0~255) %GreenValue|藍色腳位 %BluePin|藍色值(0~255) %BlueValue"
+	"Sensors.RGB_LED2|block": "共陰極RGB LED 設定 紅色腳位 %RedPin|紅色值(0~255) %RedValue|綠色腳位 %GreenPin|綠色值(0~255) %GreenValue|藍色腳位 %BluePin|藍色值(0~255) %BlueValue"
 }

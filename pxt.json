@@ -1,0 +1,15 @@
+{
+    "name": "Sensors",
+    "version": "1.0.0",
+    "description": "RGB三色LED共陽極/共陰極專用的micro:bit積木",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/Sensors-strings.json"
+    ],
+    "public": true
+}
